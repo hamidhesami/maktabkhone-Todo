@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/maktabkhone-Todo/static/css/main.5338f779.chunk.css",
-    "main.js": "/maktabkhone-Todo/static/js/main.c6521aaf.chunk.js",
-    "main.js.map": "/maktabkhone-Todo/static/js/main.c6521aaf.chunk.js.map",
+    "main.js": "/maktabkhone-Todo/static/js/main.18984f6b.chunk.js",
+    "main.js.map": "/maktabkhone-Todo/static/js/main.18984f6b.chunk.js.map",
     "runtime-main.js": "/maktabkhone-Todo/static/js/runtime-main.867e085a.js",
     "runtime-main.js.map": "/maktabkhone-Todo/static/js/runtime-main.867e085a.js.map",
     "static/js/2.2a3baa0e.chunk.js": "/maktabkhone-Todo/static/js/2.2a3baa0e.chunk.js",
     "static/js/2.2a3baa0e.chunk.js.map": "/maktabkhone-Todo/static/js/2.2a3baa0e.chunk.js.map",
     "index.html": "/maktabkhone-Todo/index.html",
-    "precache-manifest.8ef3ce8704f095d5b0f0ccb7561d6136.js": "/maktabkhone-Todo/precache-manifest.8ef3ce8704f095d5b0f0ccb7561d6136.js",
+    "precache-manifest.76f33d5322ee862d28d7b2f58d87a410.js": "/maktabkhone-Todo/precache-manifest.76f33d5322ee862d28d7b2f58d87a410.js",
     "service-worker.js": "/maktabkhone-Todo/service-worker.js",
     "static/css/main.5338f779.chunk.css.map": "/maktabkhone-Todo/static/css/main.5338f779.chunk.css.map",
     "static/js/2.2a3baa0e.chunk.js.LICENSE.txt": "/maktabkhone-Todo/static/js/2.2a3baa0e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.867e085a.js",
     "static/js/2.2a3baa0e.chunk.js",
     "static/css/main.5338f779.chunk.css",
-    "static/js/main.c6521aaf.chunk.js"
+    "static/js/main.18984f6b.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/maktabkhone-Todo/precache-manifest.8ef3ce8704f095d5b0f0ccb7561d6136.js"
+  "/maktabkhone-Todo/precache-manifest.76f33d5322ee862d28d7b2f58d87a410.js"
 );
 
 self.addEventListener('message', (event) => {
